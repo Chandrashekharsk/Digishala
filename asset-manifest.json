@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/digishala/static/css/main.560ee5f1.css",
+    "main.js": "/digishala/static/js/main.750002a1.js",
+    "static/media/intro.png": "/digishala/static/media/intro.f4e0b268af6a464f8b0e.png",
+    "index.html": "/digishala/index.html",
+    "main.560ee5f1.css.map": "/digishala/static/css/main.560ee5f1.css.map",
+    "main.750002a1.js.map": "/digishala/static/js/main.750002a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.560ee5f1.css",
+    "static/js/main.750002a1.js"
+  ]
+}
